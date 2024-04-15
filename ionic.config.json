@@ -1,0 +1,7 @@
+{
+  "name": "examen-upax-front",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
