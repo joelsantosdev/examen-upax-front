@@ -1,0 +1,12 @@
+<div class="container ion-text-center">
+  <div class="spinner">
+    <div *ngIf="config.type === 'image'">
+      <img [src]="loaderImages[currentImageIndex].src" [alt]="loaderImages[currentImageIndex].alt">
+    </div>
+    <div *ngIf="config.type === 'text'">
+      <p>Cargando...</p>
+    </div>
+  </div>
+</div>
+
+

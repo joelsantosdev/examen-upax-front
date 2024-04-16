@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'dev.jsantos.customloader',
   appName: 'examen-upax-front',
   webDir: 'www'
 };

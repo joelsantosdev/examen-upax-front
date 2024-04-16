@@ -1,7 +1,7 @@
 {
   "name": "examen-upax-front",
-  "version": "0.0.1",
-  "author": "Ionic Framework",
+  "version": "1.0.0",
+  "author": "Jsantos",
   "homepage": "https://ionicframework.com/",
   "scripts": {
     "ng": "ng",
